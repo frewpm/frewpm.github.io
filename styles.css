@@ -5,12 +5,18 @@
   background: #000;
   color: #fff;
   text-align: center;
-  font-family: 'nasin-nanpa';
+
 }
 
 #tokipona {
 
   font-family: 'nasin-nanpa';
+
+}
+
+#inli {
+
+  font-family: 'Noto-Serif';
 
 }
 
