@@ -1,0 +1,40 @@
+.header {
+  position: sticky;
+  top: 0;
+  padding: 10px 16px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  font-family: 'Noto Serif';
+}
+
+.dis {
+top: 0;
+  padding: 10px 16px;
+  background: yellow;
+  color: red;
+
+}
+
+a:visited {
+  color: maroon;
+
+}
+
+a:hover {
+  color: aqua;
+
+}
+
+a:link {
+  color: blue;
+
+}
+
+
+
+/* DESKTOP CSS */
+@media screen and (min-width: 720px) {
+.header {
+text-align: left;
+}
